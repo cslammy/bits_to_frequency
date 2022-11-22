@@ -1,3 +1,10 @@
+IMPORTANT! This repo is deprecated.  I am leaving it here because I am not sure where in other projects
+I have linked it.
+
+I am maintaining this code in the cslammy/lookuptables2. Same thing, I am updating that not this.
+BTW last I checked this version works....
+
+
 # bits_to_frequency
 Python script to create a lookup table for ADC bits to audio frequencies\
 
